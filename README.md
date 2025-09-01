@@ -14,6 +14,6 @@
     <img align="center" width="400" height="160" src="https://github-readme-stats-bice-phi-35.vercel.app/api?username=Jeb4dev&theme=gruvbox" />
   </a>
   <a href="https://github.com/Jeb4dev/github-readme-stats">
-    <img align="center" width="350" height="160" src="https://github-readme-stats-bice-phi-35.vercel.app/api/top-langs/?username=Jeb4dev&layout=compact&langs_count=8&hide=jupyter%20notebook,lua&theme=gruvbox" />
+    <img align="center" width="350" height="160" src="https://github-readme-stats-bice-phi-35.vercel.app/api/top-langs/?username=Jeb4dev&layout=compact&langs_count=8&hide=jupyter%20notebook,lua&theme=gruvbox&role=OWNER,COLLABORATOR,ORGANIZATION_MEMBER" />
   </a>
 </div>
